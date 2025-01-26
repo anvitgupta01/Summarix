@@ -7,10 +7,10 @@ In today's information-driven landscape, individuals and organizations grapple w
 ### Get Started
 Before starting the below requirements, install python>=3.8.0 and pip from https://www.python.org/downloads/
 
-1. Clone the repository https://github.com/SarvasvaG/Summarix by using the following bash command:
+1. Clone the repository https://github.com/anvitgupta01/Summarix by using the following bash command:
    
    ```console
-   git clone https://github.com/SarvasvaG/Summarix
+   git clone https://github.com/anvitgupta01/Summarix
    ```
 
 2. Install all the required packages by pip install command, as given in requirements.txt file. Alternatively, use the following command to install all the packages in the python environment:
